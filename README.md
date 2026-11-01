@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shubham Kanodje 👋
 
-<!--
-**ShubhamKanodje/ShubhamKanodje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building software, solving problems, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Learning Data Structures & Algorithms using Java
+- 🌐 Exploring Full Stack Web Development (MERN Stack)
+- 📱 Building Android applications
+- 🚀 Interested in Software Engineering and Product Development
+- 📍 Nashik, Maharashtra, India
+
+### 🛠️ Technologies & Skills
+
+- **Languages:** Java, JavaScript
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, SQL, Supabase
+- **Tools:** Git, GitHub, Android Studio, Firebase
+
+### 📌 Current Focus
+
+- Strengthening DSA and problem-solving skills
+- Building practical software projects
+- Improving full-stack development skills
+- Preparing for Software Engineering opportunities
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [Shubham Kanodje](https://www.linkedin.com/in/shubham-kanodje/)
+- **Email:** shubhamkanodje@gmail.com
+
+---
+
+⭐ *Always learning, building, and growing as a developer.*
